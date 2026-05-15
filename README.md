@@ -23,5 +23,3 @@ A Python application that records and plays back mouse and keyboard actions with
 Install requirements with:
 bash
 pip install pynput
-
-zip pass extract contact author
